@@ -1,4 +1,4 @@
-## E ai QAs, sejam bem-vindos
+## E ai Galera, sejam bem vindos ap meu GitHub
 
 <div align="center">
   <a href="https://github.com/gabefranco"> 
@@ -10,10 +10,34 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gercileideabreu)
 
+### About Me
+
+{
+	"platformName": "Glauber Franco",
+  	"age": "4.0",
+  	"nickName": "Gabe Franco",
+  	"loves": "Jesus, Wife Gege" Pet,
+  	"kids": "not.kids.yet",
+  	"hobbies": "series.terere.gospel-music"
+}
+	
 ### My Capabilities
 
-```javascript
-const jonatasmfaria = {
+{
+  	"platformName": "QA Engineer Jr",
+  	"code": "Javascript", "Gherkin", "
+  	"database": "SQL", "noSQL"
+	"framework": "Cypress", "Webdriver", "Appium", "Docker", "Jenkins", "Jmeter", "Selenium"
+	"deviceFarm": "Sauce", "BrowserStack", "SauceLabs"
+  	"tests": "Gerenciamento de Bugs", "Funcionais", "Carga", "API", "CI/CD", "Dados"
+  	"ides": "VSCode", "Eclipse"
+  	"os": "Linux", "Windows"
+}
+
+	
+	
+	```javascript
+const  = {
     pronouns: 'he',
     code: ['Javascript', 'TypeScript', 'Java', 'Python', 'C#', 'Ruby', 'Markdown', 'Pascal'],
     database: ['MySql', 'Postgress', 'Microsoft SQL Server', 'Oracle'],
