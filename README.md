@@ -1,4 +1,14 @@
-## E ai Galera, sejam bem vindos ap meu GitHub
+## E ai Galera, sejam bem vindos ao meu GitHub
+
+I am a professional with 26 years of experience, graduated in IT since 2003. I started my career working for about 4 years in technical support, then moved on to Planning, Administrative, Financial, Insurance, and finally Entrepreneurship. However, I am looking for new challenges and I am transitioning my career to work in the field of Software Quality with testing and automation.
+
+Recently, I have been dedicating myself to studying Automated Testing, Software Development, and Agile Methodologies. My skills include Cypress, Appium, Webdriver, Postman, Docker, SQL, CI/CD, Excel, MS Project, Jira, Scrum, Kanban, and I am always looking to improve my knowledge in Software Quality and Planning.
+
+During this transition, I discovered that my entire professional trajectory has given me knowledge to work more maturely and structured in the area that I have chosen, and I confess that I am excited about my new passion: QA.
+
+I am open to new opportunities and would love to talk more about my skills and professional interests. If you would like to connect, please do not hesitate to reach out to me at glauberfranco@gmail.com or whatsapp: wa.me/5517997051082
+
+`---`
 
 <div align="center">
   <a href="https://github.com/gabefranco"> 
@@ -10,19 +20,23 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gercileideabreu)
 
+	
 ### About Me
-
+	
+```json
 {
 	"platformName": "Glauber Franco",
-  	"age": "4.0",
-  	"nickName": "Gabe Franco",
-  	"loves": "Jesus, Wife Gege" Pet,
-  	"kids": "not.kids.yet",
-  	"hobbies": "series.terere.gospel-music"
+	"age": "4.0",
+	"nickName": "Gabe Franco",
+	"loves": "Jesus.Wife-Gege.Pet-Fofa",
+	"kids": "not.kids.yet",
+	"hobbies": "series.terere.gospel-music"
+	"languages": "Portuguese.Native", "English.B1"
 }
-	
+```
 ### My Capabilities
-
+	
+```json
 {
   	"platformName": "QA Engineer Jr",
   	"code": "Javascript", "Gherkin", "Cucumber"
@@ -37,43 +51,11 @@
   	"os": "Linux", "Windows"
 	"virtualization": "Docker"
 	"cicd": "Jenkins", "GitHub Actions"
-	"managementTools" "MS Project", "Jira", "Trello"
+	"managementTools": "MS Project", "Jira", "Trello"
         "agileMethodologies": "Lean", "Design Thinking", "Kanban", "Scrum", "OKR"
-	
 }
-
-	
-	
-	```javascript
-const  = {
-    pronouns: 'he',
-    code: ['Javascript', 'TypeScript', 'Java', 'Python', 'C#', 'Ruby', 'Markdown', 'Pascal'],
-    database: ['MySql', 'Postgress', 'Microsoft SQL Server', 'Oracle'],
-    askMeAbout: ['tech', 'geek', 'coffee', 'anime', 'study'],
-    outhers: ['git', 'npm', 'Bitrise', 'test case', 'kanoah', 'docusaurus', 'mkdocs', 'bdd', 'gherkin', 'cucumber'],
-    technologies: {
-        frontEndTest: {
-            web: ['Selenium Webdriver', 'maestro', 'Capybara', 'WebdriverIO', 'Robot Framework', 'TestProject', 'Playwright'],
-            visualRegression: ['WebdriverIO'],
-            desktop: ['WebdriverIO', 'TestFlow 2.0']
-        },
-        backEnd: {
-            js: ['node.js'],
-            api: ['Playwright', 'Postman', 'Pactum.js', 'Rest-assured', 'mocha', 'Robot Framework', 'http-party'],
-            performance: ['k6', 'HP Performance Testing']
-        },
-        os: ['windows', 'linux', 'macOs'],
-        deviceFarm:['aws device farm', 'browserstack', 'applitools'],
-        clound: ['Aws', 'Azure'],
-	virtualization: ['Docker'],
-        locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
-        ides: ['IntelliJ', 'vscode', 'netbeans', 'eclipse', 'atom', 'microsoft visual studio'],
-        cicd: ['jenkins', 'azure devops', 'github actions'],
-        managementTools: ['trello', 'azure', 'jira'],
-        agileMethodologies: ['Kanban', 'Scrum', 'waterfall']
-    }
-};
 ```
+
 
 #### Profile views counter
 
