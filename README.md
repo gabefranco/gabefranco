@@ -6,9 +6,9 @@ Recently, I have been dedicating myself to studying Automated Testing, Software 
 
 During this transition, I discovered that my entire professional trajectory has given me knowledge to work more maturely and structured in the area that I have chosen, and I confess that I am excited about my new passion: QA.
 
-I am open to new opportunities and would love to talk more about my skills and professional interests. If you would like to connect, please do not hesitate to reach out to me at glauberfranco@gmail.com or whatsapp: wa.me/5517997051082
+I am open to new opportunities and would love to talk more about my skills and professional interests. If you would like to connect, please do not hesitate to reach out to me at glauberfranco@gmail.com or [Whatsapp](https://wa.me/5517997051082)
 
-`---`
+`.`
 
 <div align="center">
   <a href="https://github.com/gabefranco"> 
@@ -25,11 +25,11 @@ I am open to new opportunities and would love to talk more about my skills and p
 	
 ```json
 {
-	"platformName": "Glauber Franco",
-	"age": "4.0",
-	"nickName": "Gabe Franco",
-	"loves": "Jesus.Wife-Gege.Pet-Fofa",
-	"kids": "not.kids.yet",
+	"platformName": "Glauber Franco"
+	"age": "4.0"
+	"nickName": "Gabe Franco"
+	"loves": "Jesus.Wife-Gege.Pet-Fofa"
+	"kids": "not.kids.yet"
 	"hobbies": "series.terere.gospel-music"
 	"languages": "Portuguese.Native", "English.B1"
 }
@@ -38,8 +38,8 @@ I am open to new opportunities and would love to talk more about my skills and p
 	
 ```json
 {
-  	"platformName": "QA Engineer Jr",
-  	"code": "Javascript", "Gherkin", "Cucumber"
+  	"platformName": "QA Engineer Jr"
+  	"code": "Javascript", "Gherkin", "Markdown"
 	"code:methods": "BDD", "TDD"
   	"database": "SQL", "noSQL"
 	"framework:frontEnd": "Cypress", "Selenium Webdriver", "WebdriverIO", "Appium"
@@ -62,9 +62,9 @@ I am open to new opportunities and would love to talk more about my skills and p
 ![Visitor Count](https://profile-counter.glitch.me/{gabefranco}/count.svg)
 
 <p align="center">
-	<a href="https://github.com/gabefranco"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/github.png"/></a>
-	<a href="https://www.linkedin.com/in/francoglauber/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/linkedin.png"/></a>
-	<a href="https://www.instagram.com/glauberfranco.qa/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png"/></a>
+	<a href="https://github.com/gabefranco"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/github.png"/></a>
+	<a href="https://www.linkedin.com/in/francoglauber/"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/linkedin.png"/></a>
+	<a href="https://www.instagram.com/glauberfranco.qa/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png"/></a>
 </p>
 
 # 📈 Statistics 📈
