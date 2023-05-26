@@ -1,4 +1,4 @@
-## E ai Galera, sejam bem vindos ao meu GitHub
+## Hey Guys, Welcome to my GitHub
 
 I am a professional with 26 years of experience, graduated in IT since 2003. I started my career working for about 4 years in technical support, then moved on to Planning, Administrative, Financial, Insurance, and finally Entrepreneurship. However, I am looking for new challenges and I am transitioning my career to work in the field of Software Quality with testing and automation.
 
@@ -6,9 +6,9 @@ Recently, I have been dedicating myself to studying Automated Testing, Software 
 
 During this transition, I discovered that my entire professional trajectory has given me knowledge to work more maturely and structured in the area that I have chosen, and I confess that I am excited about my new passion: QA.
 
-I am open to new opportunities and would love to talk more about my skills and professional interests. If you would like to connect, please do not hesitate to reach out to me at glauberfranco@gmail.com or [Whatsapp](https://wa.me/5517997051082)
+I am open to new opportunities and would love to talk more about my skills and professional interests. If you would like to connect, please do not hesitate to reach out to me at [e-mail](glauberfranco@gmail.com) or [Whatsapp](https://wa.me/5517997051082)
 
-`.`
+<p>.<p/>
 
 <div align="center">
   <a href="https://github.com/gabefranco"> 
@@ -16,7 +16,7 @@ I am open to new opportunities and would love to talk more about my skills and p
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabefranco&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## O que curto ouvir
+## I love theses songs
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gercileideabreu)
 
@@ -67,6 +67,6 @@ I am open to new opportunities and would love to talk more about my skills and p
 	<a href="https://www.instagram.com/glauberfranco.qa/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png"/></a>
 </p>
 
-# 📈 Statistics 📈
+#### 📈 Statistics 📈
 
 ![](https://komarev.com/ghpvc/?username=gabefranco&color=447ff7&label=Visitor+count)
