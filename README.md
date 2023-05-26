@@ -25,13 +25,21 @@
 
 {
   	"platformName": "QA Engineer Jr",
-  	"code": "Javascript", "Gherkin", "
+  	"code": "Javascript", "Gherkin", "Cucumber"
+	"code:methods": "BDD", "TDD"
   	"database": "SQL", "noSQL"
-	"framework": "Cypress", "Webdriver", "Appium", "Docker", "Jenkins", "Jmeter", "Selenium"
+	"framework:frontEnd": "Cypress", "Selenium Webdriver", "WebdriverIO", "Appium"
+	"framework:backEnd": "Postman", "Node.JS", "Appium", "Docker", "Jenkins", "Jmeter", "Selenium"
 	"deviceFarm": "Sauce", "BrowserStack", "SauceLabs"
-  	"tests": "Gerenciamento de Bugs", "Funcionais", "Carga", "API", "CI/CD", "Dados"
+  	"tests": "Functional", "Not Functional", "Stress", "API", "CI/CD", "Data"
+	"locatorStrategies": "Xpath", "CSS Selector", "ID", "Uiselector"
   	"ides": "VSCode", "Eclipse"
   	"os": "Linux", "Windows"
+	"virtualization": "Docker"
+	"cicd": "Jenkins", "GitHub Actions"
+	"managementTools" "MS Project", "Jira", "Trello"
+        "agileMethodologies": "Lean", "Design Thinking", "Kanban", "Scrum", "OKR"
+	
 }
 
 	
